@@ -6,11 +6,11 @@
     --Moderate-Violet: hsl(276, 55%, 52%);
     --Desaturated-Dark-Violet: hsl(271, 15%, 43%);
     --Grayish-Blue: hsl(206, 6%, 79%);
-    --Very-Dark-Desaturated-Violet:hsl(271, 36%, 24%);/*(main heading) (submit button background)*/
-    --Dark-Grayish-Violet:hsl(270, 7%, 64%); /*(paragraph)*/
+    --Very-Dark-Desaturated-Violet:hsl(271, 36%, 24%);
+    --Dark-Grayish-Violet:hsl(270, 7%, 64%); 
     --White: hsl(0, 0%, 100%);
-    --Light-Grayish-Violet: hsl(270, 20%, 96%);/* (app background)*/
-    --Very-Light-Magenta:hsl(289, 100%, 72%);/*(radio button outline)*/
+    --Light-Grayish-Violet: hsl(270, 20%, 96%);
+    --Very-Light-Magenta:hsl(289, 100%, 72%);
 }
 button {
     cursor: pointer;
@@ -38,7 +38,7 @@ body {
     opacity: 0.1;
     border-radius: 300px 300px 0 0;
     right: 0;
-    top: 10px;
+    top: 50px;
 }
 .avatar img {
     height: 22px;
